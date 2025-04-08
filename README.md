@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Boricha</h1>
-<h3 align="center">A passionate Data Scientist & ML Engineer from India. I have done my Bachelor of Engineering from the University of Mumbai. I'm currently pursuing my post graduation in AI & Data Science from the Loyalist College in Toronto.</h3>
+<h3 align="center">A passionate Data Scientist & ML Engineer from India. I have done my Bachelor of Engineering from the University of Mumbai. I'm currently pursuing my post graduation in Artificial Intelligence & Data Science from the Loyalist College in Toronto.</h3>
 
 - 🔭 I’m currently working on **various Machine Learning projects.**
 
