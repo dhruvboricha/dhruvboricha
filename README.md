@@ -28,7 +28,7 @@
 
 
 <h3 align="left">Github Stats:</h3>
-![](https://github-readme-stats.vercel.app/api?username=dhruvboricha&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dhruvboricha&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvboricha&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p><img src="https://github-readme-stats.vercel.app/api?username=dhruvboricha&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false" alt=""><br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=dhruvboricha&amp;theme=dark&amp;hide_border=false" alt=""><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvboricha&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=false&amp;count_private=false&amp;layout=compact" alt=""></p>
 
